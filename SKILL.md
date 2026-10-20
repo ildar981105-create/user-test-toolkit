@@ -1,6 +1,6 @@
 ---
 name: user-test-toolkit
-description: "This skill provides a complete user testing toolkit for web applications, including automatic behavior tracking (tracker.js), contextual in-flow surveys (survey.js), SUS/EV/NPS standard questionnaires, task panels, and SAM self-assessment models. Use this skill when the user mentions: user testing, usability testing, behavior tracking,埋点, 问卷调查, SUS评分, 可用性测试, 用户研究, A/B test preparation, or needs to collect real user interaction data on any web product."
+description: "为 AI 时代的 Vibe Coding 页面量身打造的用户测试工具链。无需修改业务代码，只要把 tracker.js 引入任意页面，即可自动采集用户的操作轨迹、犹豫点、困惑行为、停留热区；配合 survey.js，能在用户真实使用流程中嵌入式触发任务引导、微问卷检查点（Checkpoint）、SUS/EV/NPS 标准量表和 SAM 情绪评估，所有数据上报到你的服务端。适用于：可用性测试、用户研究、埋点采集、A/B 效果验证。创新点：埋点和问卷均与业务流零侵入融合，不是事后补发，而是用户"正在做事的时候"自动感知、自动触发。"
 ---
 
 # User Test Toolkit Skill — Web 应用用户测试完整工具链 v3（可配置版）

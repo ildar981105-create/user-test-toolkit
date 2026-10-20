@@ -1,6 +1,6 @@
 # User Test Toolkit
 
-> Web 应用用户测试完整工具链 — 被动埋点 + 主动问卷，即插即用
+> 为 AI 时代 Vibe Coding 页面打造：零侵入埋点 + 流程嵌入式调研问卷，用户的操作、犹豫、困惑、情绪全程感知
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
